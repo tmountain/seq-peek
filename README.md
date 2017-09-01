@@ -21,11 +21,12 @@ Report consumption of a sequence via a callback while maintaining laziness.
 
 Available via [Clojars].
 
-Latest stable release is [0.1.0].
-
 [Leiningen] dependency information:
 
     [com.tmountain/seq-peek "0.1.0"]
+
+[Clojars]: http://clojars.org/
+[Leiningen]: http://leiningen.org/
 
 ## Dependencies and Compatibility ##
 
